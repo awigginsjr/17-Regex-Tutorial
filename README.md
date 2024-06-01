@@ -17,3 +17,5 @@ https://github.com/coding-boot-camp/bug-free-goggles.git
 If you have any additional questions, concerns, or would like to view more of my work, my GitHub is below:
 
 GitHub ~ [https://github.com/awigginsjr](https://github.com/awigginsjr)
+
+My site is live at [https://awigginsjr.github.io/17-Regex-Tutorial/](https://awigginsjr.github.io/17-Regex-Tutorial/)
