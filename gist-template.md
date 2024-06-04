@@ -55,3 +55,7 @@ In this regex, the backslash `\` is used to escape the `d`, turning it into a sp
 Anthony Wiggins Jr is a junior software developer with a passion for coding and technology. With a background in full stack coding and hands-on experience in web development, Anthony is skilled in various programming languages and frameworks, including HTML, CSS, JavaScript, and React. He has a keen interest in creating efficient, user-friendly applications and enjoys tackling challenging problems to continuously improve his skills. His enthusiasm for learning and dedication to the craft make him a promising and valuable member of any development team.
 
 GitHub Profile ~ [https://github.com/awigginsjr](https://github.com/awigginsjr)
+
+GitHub Gist ~ [https://gist.github.com/awigginsjr/8767ed410ab85dedc9ce2b614adb34e0](https://gist.github.com/awigginsjr/8767ed410ab85dedc9ce2b614adb34e0)
+
+My site is live at ~ [https://awigginsjr.github.io/17-Regex-Tutorial/](https://awigginsjr.github.io/17-Regex-Tutorial/)
