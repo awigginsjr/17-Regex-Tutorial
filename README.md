@@ -18,4 +18,6 @@ If you have any additional questions, concerns, or would like to view more of my
 
 GitHub ~ [https://github.com/awigginsjr](https://github.com/awigginsjr)
 
+GitHub Gist ~ [https://gist.github.com/awigginsjr/8767ed410ab85dedc9ce2b614adb34e0](https://gist.github.com/awigginsjr/8767ed410ab85dedc9ce2b614adb34e0)
+
 My site is live at [https://awigginsjr.github.io/17-Regex-Tutorial/](https://awigginsjr.github.io/17-Regex-Tutorial/)
