@@ -20,31 +20,31 @@ The regular expression (regex) for matching a US ZIP Code can handle both the st
 
 Regular expressions (regex) are composed of various components that allow you to define patterns for matching strings. Here are the key components used in the regular expression (regex) for matching a US ZIP Code:
 
-### Anchors ~
+### Anchors
 
 Are special characters used to specify the position within the string where a match should occur. Anchors don't match any characters themselves but instead represent a position in the string.
 
 In this regex, the `^` anchor denotes the start of the string, and the `$` anchor denotes the end of the string.
 
-### Quantifiers ~
+### Quantifiers
 
 Allow you to specify how many times a particular pattern should occur in the string.
 
 In this regex,`{5}` ensures exactly five digits, and `{4}`ensures exactly four digits after the hyphen, if it exists. The `?` quantifier makes the hyphen and four digits group optional.
 
-### Grouping Constructs ~
+### Grouping Constructs
 
 The grouping construct `( )` allows you to treat multiple tokens as a single unit.
 
 In this regex, it's used to group the hyphen `-` with the following four digits `\d{4}`. This grouping ensures that the hyphen and the four digits are treated as one unit when applying quantifiers or making the entire group optional with the `?` quantifier.
 
-### Character Classes ~
+### Character Classes
 
 Character classes are used to specify a set of characters from which you want to match one character.
 
 In this regex,`\d` represents a character class matching any digit from 0 to 9, while `-` matches the hyphen character literally.
 
-### Character Escapes ~
+### Character Escapes
 
 Are used to match special characters or characters with special meanings as literals.
 
